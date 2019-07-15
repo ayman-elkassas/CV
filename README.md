@@ -10,5 +10,4 @@
 ![Security](https://img.shields.io/badge/-Security-orange.svg)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-blueviolet.svg)
 
-<p align='center'>
 <img src="https://i.ibb.co/rsFD15B/0.jpg">
