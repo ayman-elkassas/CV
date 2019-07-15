@@ -15,6 +15,33 @@
 > I'm challenge seeker, willing to learn every single thing that related to Computer Science that will affect our future and I want to be part of that change. [for create shield](https://shields.io/category/coverage/)
 
 # Programming Language ![Programming language](https://img.shields.io/badge/-Programming%20language-orange.svg)
+
+| Language        | Snipptcode       
+| ------------- |:-------------:| 
+| C      | #include <stdio.h> 
+int main() 
+{ 
+   // Prints location of C this C code. 
+   printf("%s",__FILE__); 
+}  | 
+| C#     | using System;
+
+namespace HelloWorldApplication {
+   class HelloWorld {
+      static void Main(string[] args) {
+         /* my first program in C# */
+         Console.WriteLine("Hello World");
+         Console.ReadKey();
+      }
+   }
+}      |
+| Java | class Simple{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+}        |
+
+
 >C
 ```
 #include <stdio.h> 
