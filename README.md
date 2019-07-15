@@ -14,7 +14,3 @@
 ### First things first
 > I'm challenge seeker, willing to learn every single thing that related to Computer Science that will affect our future and I want to be part of that change. [for create shield](https://shields.io/category/coverage/)
 
-```sh
->docker run -d -p 8000:8080 --restart="always" <youruser>/dillinger:${package.json.version}
-```
-
