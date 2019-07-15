@@ -26,9 +26,26 @@ int main()
 ```
 >C#
 ```
+using System;
 
+namespace HelloWorldApplication {
+   class HelloWorld {
+      static void Main(string[] args) {
+         /* my first program in C# */
+         Console.WriteLine("Hello World");
+         Console.ReadKey();
+      }
+   }
+}
 ```
 >Java
+```
+class Simple{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+}  
+```
 >Php
 >Python
 >Js
