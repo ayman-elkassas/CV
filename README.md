@@ -11,4 +11,4 @@
 ![Data Science](https://img.shields.io/badge/-Data%20Science-blueviolet.svg)
 
 <p align='center'>
-(https://i.ibb.co/rsFD15B/0.jpg)
+<img src="https://i.ibb.co/rsFD15B/0.jpg">
