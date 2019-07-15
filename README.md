@@ -7,4 +7,5 @@
 ![Mobile Development](https://img.shields.io/badge/-Mobile%20Development-yellowgreen.svg)
 ![Database](https://img.shields.io/badge/-Database-red.svg)
 ![Network](https://img.shields.io/badge/-Network-lightgrey.svg)
+![Security](https://img.shields.io/badge/-Security-orange.svg)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-blueviolet.svg)
