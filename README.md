@@ -97,9 +97,14 @@ output_number = number.to_i + 1
 puts output_number.to_s + ' is a bigger number.'
 ```
 
-# Algorithms and Structure ![Algorithms and Structure](https://img.shields.io/badge/-Programming%20language-orange.svg)
+# Algorithms and Structure ![Algorithms and Structure](https://img.shields.io/badge/-Algorithms-blue.svg)
 >Data Structure <br>
 >Algorithms <br>
 >Dynamic programming 
+
+### Second things second
+> Is the process of designing and building an executable computer program for accomplishing a specific computing task.
+# Technologies ![Technologies](https://img.shields.io/badge/-Technologies-orange.svg)
+
 
 
