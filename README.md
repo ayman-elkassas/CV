@@ -1,5 +1,5 @@
 # CV
-# I'm challenge seeker, willing to learn every single thing that related to Computer Science that will affect our future and I want to be part of that change.
+> I'm challenge seeker, willing to learn every single thing that related to Computer Science that will affect our future and I want to be part of that change.
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
