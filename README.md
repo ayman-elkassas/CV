@@ -1,6 +1,7 @@
 # CV
 
 ![Programming language](https://img.shields.io/badge/-Programming%20language-orange.svg)
+![Algorithms](https://img.shields.io/badge/-Algorithms-blue.svg)
 ![Frontend](https://img.shields.io/badge/-Frontend-green.svg)
 ![Backend](https://img.shields.io/badge/-Backend-blue.svg)
 ![Mobile Development](https://img.shields.io/badge/-Mobile%20Development-yellowgreen.svg)
