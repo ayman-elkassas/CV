@@ -16,34 +16,8 @@
 
 # Programming Language ![Programming language](https://img.shields.io/badge/-Programming%20language-orange.svg)
 
-| Language        | Snipptcode       
-| ------------- |:-------------:| 
-| C      | #include <stdio.h> 
-int main() 
-{ 
-   // Prints location of C this C code. 
-   printf("%s",__FILE__); 
-}  | 
-| C#     | using System;
-
-namespace HelloWorldApplication {
-   class HelloWorld {
-      static void Main(string[] args) {
-         /* my first program in C# */
-         Console.WriteLine("Hello World");
-         Console.ReadKey();
-      }
-   }
-}      |
-| Java | class Simple{  
-    public static void main(String args[]){  
-     System.out.println("Hello Java");  
-    }  
-}        |
-
-
 >C
-```
+```c
 #include <stdio.h> 
 int main() 
 { 
@@ -52,7 +26,7 @@ int main()
 } 
 ```
 >C#
-```
+```c#
 using System;
 
 namespace HelloWorldApplication {
@@ -66,7 +40,7 @@ namespace HelloWorldApplication {
 }
 ```
 >Java
-```
+```java
 class Simple{  
     public static void main(String args[]){  
      System.out.println("Hello Java");  
@@ -74,11 +48,53 @@ class Simple{
 }  
 ```
 >Php
+```php
+class example extents ex2
+{
+   function test()
+   {
+      echo 'Helloworld';
+   }
+   
+}
+```
 >Python
+```python
+class example:
+
+   def test()
+   {
+      echo 'Helloworld';
+   }
+   
+```
 >Js
+```js
+function print()
+{
+   var test="Hello world";
+   return test;
+}
+```
 >Matlab
+```matlab
+A = delsq(numgrid('C',15));
+s = svds(A,5,'smallest')
+```
 >Assembly
+```assembly
+MOV EAX, [EBX]	  ; Move the 4 bytes in memory at the address contained in EBX into EAX
+MOV [ESI+EAX], CL ; Move the contents of CL into the byte at address ESI+EAX
+MOV DS, DX        ; Move the contents of DX into segment register DS
+```
 >ruby
+```ruby
+puts 'Give me a number'
+number = gets.chomp
+puts number.to_i
+output_number = number.to_i + 1
+puts output_number.to_s + ' is a bigger number.'
+```
 
 
 
