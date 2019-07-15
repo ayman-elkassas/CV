@@ -97,7 +97,7 @@ puts output_number.to_s + ' is a bigger number.'
 ```
 
 # Algorithms and Structure ![Algorithms and Structure](https://img.shields.io/badge/-Programming%20language-orange.svg)
->Datastructure <br>
+>Data Structure <br>
 >Algorithms <br>
 >Dynamic programming 
 
