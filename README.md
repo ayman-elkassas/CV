@@ -14,7 +14,9 @@
 ### First things first
 > I'm challenge seeker, willing to learn every single thing that related to Computer Science that will affect our future and I want to be part of that change. [for create shield](https://shields.io/category/coverage/)
 
-```python
-Programming language
+```sh
+$ cd dillinger
+$ npm install -d
+$ node app
 ```
 
