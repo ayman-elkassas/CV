@@ -96,6 +96,9 @@ output_number = number.to_i + 1
 puts output_number.to_s + ' is a bigger number.'
 ```
 
-# Greedy Algorithms and Structure ![Greedy Algorithms and Structure](https://img.shields.io/badge/-Programming%20language-orange.svg)
+# Algorithms and Structure ![Algorithms and Structure](https://img.shields.io/badge/-Programming%20language-orange.svg)
+1-Datastructure
+2-Algorithms
+3-Dynamic programming 
 
 
