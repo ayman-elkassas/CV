@@ -130,7 +130,7 @@ GraphQL <br>
 
 # Mobile Development ![Mobile Development](https://img.shields.io/badge/Mobile%20Development-blue.svg)
 
-1.	SQLite DB
+> 1.	SQLite DB
 2.	Software Architecture patterns
 3.	MVP
 4.	MVVM
