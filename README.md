@@ -226,16 +226,43 @@ Numpy <br>
 
 ## Machine learning <br>
 ### Classical learning
-    - #### Supervised 
+   - #### Supervised 
       - ##### Classification
          - ###### Knn 
          - ###### Naïve baysian 
          - ###### Svm
          - ###### Decision tree
+      - ##### Regression
+         - ###### Linear Regression
+   - #### UnSupervised
+      - ##### Clustering
+         - ###### Fuzzy 
+         - ###### C-mean
+         - ###### Mean shift
+         - ###### k-mean
+         - ###### DBScan
+         - ###### Agglomerative
+      - ##### Pattern search
+         - ###### Aprior
+         - ###### Fp-growth
+      - ##### Dimensionality Reduction
+         - #####  PCA
+### Ensumble method
+   - #### Stacking 
+   - #### Bagging
+   - #### Boosting (ada boost)
+### Reinforcement Learing
+   - #### Genetic Algorithm
+### Neural network And Deep Learning
+   - #### MLP
+   - #### Recurrent neural network RNN (LSM,LSTM,GRU)
+   - #### CNN
 
+   
+   
+         
 
-
-
+         
 
 
 
