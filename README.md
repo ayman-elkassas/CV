@@ -116,6 +116,19 @@ Jquery mobile <br>
 Bootstrap <br>
 Ajax <br>
 
+###Backend services
+
+>php <br>
+php mvc <br>
+php codeigntier <br>
+php laravel <br>
+slim micro framework <br>
+Django python <br>
+Asp.net <br>
+Rest api <br>
+GraphQL <br>
+
+
 
 
 
