@@ -130,6 +130,39 @@ GraphQL <br>
 
 # Mobile Development ![Mobile Development](https://img.shields.io/badge/Mobile%20Development-blue.svg)
 
+1.	SQLite DB
+2.	Software Architecture patterns
+3.	MVP
+4.	MVVM
+5.	Hybrid MVP-MVVM
+6.	Responsive design
+7.	Threading
+8.	UnitTest
+See 1 endorsement for UnitTest1
+9.	UI Testing
+See 1 endorsement for UI Testing1
+10.	RXandroid
+See 1 endorsement for RXandroid1
+11.	Google Meterial design
+12.	Google Meterial design 2
+13.	Android Jetpack
+14.	Data Binding
+15.	Lifecycles
+16.	LiveData
+17.	Navigation
+18.	Wireframe
+19.	Paging
+20.	Room Persistence DB
+21.	Slices
+22.	Volley
+23.	Gjson
+24.	Retrofit
+25.	realm
+26.	Slim Framework
+27.	Google Firebase
+28.	MongoDB
+29.	Parse platform
+
 
 
 
