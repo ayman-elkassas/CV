@@ -227,6 +227,12 @@ Numpy <br>
 ## Machine learning <br>
 ### Classical learning
    - #### Supervised 
+      - ##### Classification
+         - ###### Knn 
+         - Naïve baysian 
+         - Svm
+         - Decision tree
+
 
 
 
