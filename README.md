@@ -201,6 +201,20 @@ Computer Security <br>
 •	Discrete Mathematics
 •	Electronics
 •	Human Computer Interaction
+•	Image processing
+•	Linear Algebra
+•	Machine Learning
+•	Microprocessor Application
+•	Mobile Computing
+•	Multimedia
+•	Network Programming
+•	Operating Systems
+•	Probability theory and Statistical Distributions
+•	Research Methods
+•	Soft Computing
+•	Software Engineering
+•	penetration test (CHE) 
+•	Image processing
 
 
 
