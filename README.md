@@ -229,9 +229,9 @@ Numpy <br>
     - #### Supervised 
       - ##### Classification
          - ###### Knn 
-         -  ###### Naïve baysian 
-         -  ###### Svm
-         -  ###### Decision tree
+         - ###### Naïve baysian 
+         - ###### Svm
+         - ###### Decision tree
 
 
 
