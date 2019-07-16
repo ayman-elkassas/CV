@@ -224,8 +224,9 @@ Sikit-learn <br>
 Matplot <br>
 Numpy <br>
 
-## Machine learning
-   #### Classical learning
+## Machine learning <br>
+### Classical learning
+   - #### Supervised 
 
 
 
