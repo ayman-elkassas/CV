@@ -128,7 +128,7 @@ Asp.net <br>
 Rest api <br>
 GraphQL <br>
 
-# Mobile Development ![Mobile Development](https://img.shields.io/badge/-Mobile Development-blue.svg)
+# Mobile Development ![Mobile Development](https://img.shields.io/badge/-Mobile-Development-blue.svg)
 
 
 
