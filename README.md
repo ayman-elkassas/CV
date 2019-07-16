@@ -106,6 +106,17 @@ puts output_number.to_s + ' is a bigger number.'
 > Is the process of designing and building an executable computer program for accomplishing a specific computing task.
 # Technologies ![Technologies](https://img.shields.io/badge/-Technologies-orange.svg)
 
+###Frontend 
+
+>Html 5 <br>
+Css3 <br>
+Js <br>
+Jquery <br>
+Jquery mobile <br> 
+Bootstrap <br>
+Ajax <br>
+
+
 
 
 
