@@ -1,4 +1,4 @@
-# CV
+# Cognitive
 
 ![Programming language](https://img.shields.io/badge/-Programming%20language-orange.svg)
 ![Algorithms](https://img.shields.io/badge/-Algorithms-blue.svg)
