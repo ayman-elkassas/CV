@@ -218,10 +218,6 @@ Computer Security <br>
 
 # Data Science ![Data Science](https://img.shields.io/badge/-Data%20Science-blueviolet.svg)
 
-## Py libs
-> Tenserflow <br>
-Sikit learn <br>
-Matplot <br>
-Numpy <br>
+
 
 
