@@ -213,7 +213,7 @@ Computer Security <br>
 •	Research Methods
 •	Soft Computing
 •	Software Engineering
-•	penetration test (CHE) 
+•	Penetration Test (CHE) 
 •	Image processing
 
 
