@@ -12,7 +12,7 @@
 
 <img src="https://i.ibb.co/rsFD15B/0.jpg">
 
-### <p stype="color="red""<p/>First things first
+### First things first
 > I'm challenge seeker, willing to learn every single thing that related to Computer Science that will affect our future and I want to be part of that change. [for create shield](https://shields.io/category/coverage/)
 
 # Programming Language ![Programming language](https://img.shields.io/badge/-Programming%20language-orange.svg)
@@ -159,6 +159,15 @@ GraphQL <br>
 27.	Google Firebase
 28.	MongoDB
 29.	Parse platform
+30.	Design Software Engineering Patterns & UMLs
+31.	Version Control Systems(VCS)-Git
+32.	Agile sprints
+33.	GraphQL
+34.	JIRA issue tracking system
+35.	Dagger2
+36.	Travis CI
+37.	Firebase cloud messaging (FCM)
+38.	Mobile Computer Vision (OpenCv SDK)
 
 
 
