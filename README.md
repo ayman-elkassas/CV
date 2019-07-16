@@ -216,6 +216,8 @@ Computer Security <br>
 •	penetration test (CHE) 
 •	Image processing
 
-<p align="center"> # ![Data Science](https://img.shields.io/badge/-Data%20Science-blueviolet.svg)
+<p align="center">
+# Data Science ![Data Science](https://img.shields.io/badge/-Data%20Science-blueviolet.svg)
+</p>
 
 
