@@ -7,7 +7,7 @@
 ![Mobile Development](https://img.shields.io/badge/-Mobile%20Development-yellowgreen.svg)
 ![Database](https://img.shields.io/badge/-Database-red.svg)
 ![Network](https://img.shields.io/badge/-Network-lightgrey.svg)
-![Well Know](https://img.shields.io/badge/-[Well%20Know-orange.svg)
+![Well Know](https://img.shields.io/badge/-Well%20Know-orange.svg)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-blueviolet.svg)
 
 <img src="https://i.ibb.co/rsFD15B/0.jpg">
@@ -183,6 +183,24 @@ oracle <br>
 CCNA Security <br>
 CCNP <br>
 Computer Security <br>
+
+# Well Know ![Well Know](https://img.shields.io/badge/Well%20Know-blue.svg)
+
+•	Bioinformatics
+•	Biometric
+•	Calculus
+•	Computer Graphics
+•	Computer Networks
+•	Computer Organization and Architecture
+•	Computer vision
+•	Data Communications
+•	Data Mining
+•	Data Structures and Algorithms
+•	Database Systems
+•	Digital Logic Circuits
+•	Discrete Mathematics
+•	Electronics
+•	Human Computer Interaction
 
 
 
