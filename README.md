@@ -106,7 +106,7 @@ puts output_number.to_s + ' is a bigger number.'
 > Is the process of designing and building an executable computer program for accomplishing a specific computing task.
 # Technologies ![Technologies](https://img.shields.io/badge/-Technologies-orange.svg)
 
-###Frontend 
+### Frontend 
 
 >Html 5 <br>
 Css3 <br>
@@ -116,7 +116,7 @@ Jquery mobile <br>
 Bootstrap <br>
 Ajax <br>
 
-###Backend services
+### Backend services
 
 >php <br>
 php mvc <br>
@@ -127,6 +127,8 @@ Django python <br>
 Asp.net <br>
 Rest api <br>
 GraphQL <br>
+
+# Mobile Development ![Mobile Development](https://img.shields.io/badge/-Mobile Development-blue.svg)
 
 
 
