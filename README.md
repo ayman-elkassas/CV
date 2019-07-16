@@ -169,7 +169,20 @@ GraphQL <br>
 37.	Firebase cloud messaging (FCM)
 38.	Mobile Computer Vision (OpenCv SDK)
 
+# Database ![Database](https://img.shields.io/badge/Mobile%20Development-red.svg)
 
+>Sql <br>
+Nosql (MongoDB) <br>
+Sqlite <br>
+Mysql <br>
+oracle <br>
+
+# Network and Security ![Network and Security](https://img.shields.io/badge/Network%20%20and%20Security-orange.svg)
+
+CCNA <br>
+CCNA Security <br>
+CCNP <br>
+Computer Security <br>
 
 
 
