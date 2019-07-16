@@ -220,9 +220,13 @@ Computer Security <br>
 
 ## Py libs
 > Tenserflow <br>
-Sikit learn <br>
+Sikit-learn <br>
 Matplot <br>
 Numpy <br>
+
+## Machine learning
+   #### Classical learning
+
 
 
 
