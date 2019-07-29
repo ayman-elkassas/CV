@@ -130,7 +130,7 @@ Rest api <br>
 GraphQL <br>
 
 ### Integration Systems
->RabbitMQ (Rabbit Messaging System)
+>RabbitMQ (Rabbit Messaging System) <br>
 >Web Socket 
 
 # Mobile Development ![Mobile Development](https://img.shields.io/badge/Mobile%20Development-blue.svg)
