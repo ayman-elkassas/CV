@@ -274,6 +274,7 @@ Numpy <br>
    - #### MLP
    - #### Recurrent neural network RNN (LSM,LSTM,GRU)
    - #### CNN
+   - #### سيبسيب
 
    
    
